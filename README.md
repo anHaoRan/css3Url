@@ -39,6 +39,7 @@ http://hakim.se/
 这是Reveal.js的作者Hakim El Hattab的个人网站，上面有很多交互和CSS动画的demo，项目大多是开源的。
 
 ![image](https://github.com/anHaoRan/css3Url/blob/master/images/img4.png)
+<<<<<<< HEAD
 
 ## Typed.js
 
@@ -61,6 +62,8 @@ https://instafavicon.com/
 ## favico.js
 
 http://lab.ejci.net/favico.js/
+=======
+>>>>>>> 340197fe8dc735b27eca6d52fe546160f352261c
 
 有了favicon后，使用favico.js你还可以给它加上一些动态效果，比如像图片里那样添加一个显示消息数量的badge，或是添加一个静音图标。
 
