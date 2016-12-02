@@ -1,6 +1,6 @@
 # css3Url
 这是css3网址
-
+# 一、动态效果
 ## AniJS
 
 http://anicollection.github.io/#/
@@ -40,9 +40,40 @@ http://hakim.se/
 
 ![image](https://github.com/anHaoRan/css3Url/blob/master/images/img4.png)
 
+## Typed.js
 
+http://www.mattboldt.com/demos/typed-js/
 
+在你的页面上添加一个打字机效果。虽然用js很容易实现，但这个要更完善，有更多的自定义选项。
 
+![image](https://github.com/anHaoRan/css3Url/blob/master/images/img5.png)
 
+# 二、工具
 
+## Instafavicon
 
+https://instafavicon.com/
+
+项目要展示了，少不了一个favicon。这个网站可以帮你快速生成一个简洁美观的站点图标。
+
+![image](https://github.com/anHaoRan/css3Url/blob/master/images/img6.png)
+
+## favico.js
+
+http://lab.ejci.net/favico.js/
+
+有了favicon后，使用favico.js你还可以给它加上一些动态效果，比如像图片里那样添加一个显示消息数量的badge，或是添加一个静音图标。
+
+![image](https://github.com/anHaoRan/css3Url/blob/master/images/img7.png)
+
+# 挂件
+## Github Ribbon
+
+https://github.com/blog/273-github-ribbons
+
+很多开源项目都会在网页的边角放一个这样的Github ribbon。
+
+![image](https://github.com/anHaoRan/css3Url/blob/master/images/img8.png)
+
+资源来自于
+https://zhuanlan.zhihu.com/p/23948378
