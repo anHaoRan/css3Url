@@ -48,8 +48,9 @@ http://www.mattboldt.com/demos/typed-js/
 在你的页面上添加一个打字机效果。虽然用js很容易实现，但这个要更完善，有更多的自定义选项。
 
 ![image](https://github.com/anHaoRan/css3Url/blob/master/images/img5.png)
+## velocityjs
 
-## http://velocityjs.org/
+http://velocityjs.org/
 
 很多css效果
 
