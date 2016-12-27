@@ -54,6 +54,10 @@ http://velocityjs.org/
 
 很多css效果
 
+## 很多简单的css集合
+
+https://my.oschina.net/u/2903254/blog/809874
+
 # 二、工具
 
 ## Instafavicon
