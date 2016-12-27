@@ -49,6 +49,10 @@ http://www.mattboldt.com/demos/typed-js/
 
 ![image](https://github.com/anHaoRan/css3Url/blob/master/images/img5.png)
 
+## http://velocityjs.org/
+
+很多css效果
+
 # 二、工具
 
 ## Instafavicon
